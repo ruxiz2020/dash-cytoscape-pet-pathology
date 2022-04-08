@@ -1,0 +1,6 @@
+dash==2.0.0
+pandas==0.24.1
+gunicorn==19.9.0
+dash-cytoscape
+biopython==1.74.0
+dash-extensions
